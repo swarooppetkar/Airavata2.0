@@ -1,0 +1,9 @@
+1) Fix pipe properties saving problem:-
+
+
+
+2) Add info in property dialog box
+3) Add actual connecting pipes 
+4) Add left sided tool bar and funtionality.
+
+
